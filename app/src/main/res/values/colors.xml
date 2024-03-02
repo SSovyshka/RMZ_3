@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#131313</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="deep_teal">#217074</color>
+    <color name="dark_sea_green">#37745B</color>
+    <color name="lauren_green">#8B9D77</color>
+    <color name="platinum">#E7EAEF</color>
+    <color name="apricot">#EDC5AB</color>
+</resources>
+
